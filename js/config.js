@@ -7,9 +7,10 @@ var __apiKeys = [
 	'm776832552-c263a8110fb3e49cb6ce0c4a', // serwer helena - ping
 	'm776832554-70cc70faf2c4d0a53bf0ea35', // serwer joanna - ping
 	'm776832557-30a6ae170e41d8bbb3b61efa', // serwer klara - ping
-	'm776307966-1b7961715df43b2d6a3fc680', // informacjapubliczna.org
-	'm776307967-ca38ae71e9dc64075556cfdc', // siecobywatelska.pl
-	'm776832574-c30477774587ce95d34db26b', // watchdogportal.pl
+	'm776832572-8a503b4b9120719d67e21e8', // informacjapubliczna.org - kywd
+	'm776307967-ca38ae71e9dc64075556cfdc', // siecobywatelska.pl - kywd
+	'm776832574-c30477774587ce95d34db26b', // watchdogportal.pl - kywd
+	'm776846721-6438d7a364e71c71429fb427', // mail.siecobywatelska.pl - kywd
 ];
 
 // refresh interval (in seconds)
