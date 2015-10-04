@@ -11,6 +11,7 @@ var __apiKeys = [
 	'm776307967-ca38ae71e9dc64075556cfdc', // siecobywatelska.pl - kywd
 	'm776832574-c30477774587ce95d34db26b', // watchdogportal.pl - kywd
 	'm776846721-6438d7a364e71c71429fb427', // mail.siecobywatelska.pl - kywd
+	'm777124326-0a664a1457970ac65636b8cc', // poradnia.siecobywatelska.pl - kywd
 ];
 
 // refresh interval (in seconds)
