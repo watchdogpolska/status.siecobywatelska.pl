@@ -6,8 +6,8 @@ var __apiKeys = [
 	'm776832554-70cc70faf2c4d0a53bf0ea35', // serwer joanna - ping
 	'm776832557-30a6ae170e41d8bbb3b61efa', // serwer klara - ping
 	'm776913747-3e6f59b217090bc0f0edff25', // serwer laura - ping
-	'm777431344-b4d5c6776b9ea75b17d79f08'  // serwer rita - ping
-	'm776832572-8a503b4b9120719d67e21e8',  // informacjapubliczna.org - kywd
+	'm777431344-b4d5c6776b9ea75b17d79f08',  // serwer rita - ping
+	'm776832572-8a503b4b9120719d67e21e8a',  // informacjapubliczna.org - kywd
 	'm776832571-cfb4b586fed7422c65a00692', // siecobywatelska.pl - kywd
 	'm776832574-c30477774587ce95d34db26b', // watchdogportal.pl - kywd
 	'm776846721-6438d7a364e71c71429fb427', // mail.siecobywatelska.pl - kywd
