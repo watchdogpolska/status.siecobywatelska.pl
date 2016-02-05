@@ -6,13 +6,15 @@ var __apiKeys = [
 	'm776832554-70cc70faf2c4d0a53bf0ea35', // serwer joanna - ping
 	'm776832557-30a6ae170e41d8bbb3b61efa', // serwer klara - ping
 	'm776913747-3e6f59b217090bc0f0edff25', // serwer laura - ping
-	'm776832572-8a503b4b9120719d67e21e8', // informacjapubliczna.org - kywd
+	'm777431344-b4d5c6776b9ea75b17d79f08'  // serwer rita - ping
+	'm776832572-8a503b4b9120719d67e21e8',  // informacjapubliczna.org - kywd
 	'm776832571-cfb4b586fed7422c65a00692', // siecobywatelska.pl - kywd
 	'm776832574-c30477774587ce95d34db26b', // watchdogportal.pl - kywd
 	'm776846721-6438d7a364e71c71429fb427', // mail.siecobywatelska.pl - kywd
 	'm777124326-0a664a1457970ac65636b8cc', // poradnia.siecobywatelska.pl - kywd
 	'm777124330-a72a330ae4bba7e44e245d5a', // watchdogforum.org - kywd
 	'm777124334-755921454226684cdc781ca9', // panel.siecobywatelska.pl - kywd
+	'm777431345-a5e5091b36facfd1e992e6aa', // dysk.siecobywatelska.pl - kywd
 ];
 
 // refresh interval (in seconds)
