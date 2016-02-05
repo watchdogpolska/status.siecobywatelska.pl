@@ -14,7 +14,7 @@ var __apiKeys = [
 	'm777124326-0a664a1457970ac65636b8cc', // poradnia.siecobywatelska.pl - kywd
 	'm777124330-a72a330ae4bba7e44e245d5a', // watchdogforum.org - kywd
 	'm777124334-755921454226684cdc781ca9', // panel.siecobywatelska.pl - kywd
-	'm777431345-a5e5091b36facfd1e992e6aa', // dysk.siecobywatelska.pl - kywd
+	'm777431345-a5e5091b36facfd1e992e6aa' // dysk.siecobywatelska.pl - kywd
 ];
 
 // refresh interval (in seconds)
