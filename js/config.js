@@ -15,7 +15,7 @@ var __apiKeys = [
 	'm777124330-a72a330ae4bba7e44e245d5a', // watchdogforum.org - kywd
 	'm777124334-755921454226684cdc781ca9', // panel.siecobywatelska.pl - kywd
 	'm777740989-a700bbdfb9cd03028d4c3dcb', // dyski.siecobywatelska.pl - kywd
-	'm777740981-c5bb92158099261739c395db' // kontrola.siecobywatelska.pl - kywd
+	'm777740981-c5bb92158099261739c395db', // kontrola.siecobywatelska.pl - kywd
 	'm777860196-47e41c4b007364d4d75d18a6' // spolki.siecobywatelska.pl - kywd
 ];
 
