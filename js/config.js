@@ -1,7 +1,5 @@
 // array of Monitor-specific API keys or Main API key to list all monitors
 var __apiKeys = [
-	'm776832545-41f9062c659812c7409d7a30', // serwer grazyna - ping
-	'm776832547-4c86a7ae5e99eefbcb18d45d', // serwer ewelina - ping
 	'm776832548-81b3b8aed77589e40c03ca66', // serwer dorota - ping
 	'm776832554-70cc70faf2c4d0a53bf0ea35', // serwer joanna - ping
 	'm776832557-30a6ae170e41d8bbb3b61efa', // serwer klara - ping
